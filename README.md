@@ -1,7 +1,6 @@
 ### 👋 Hi! My name is Tika!
 
 🏙 I live in Chicago.
-
 👩‍🏫 I’m a recent grad and teaching fellow at Grace hopper (a Fullstack bootcamp for women+). 
 
 ### Projects:
