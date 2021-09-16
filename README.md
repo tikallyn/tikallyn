@@ -4,7 +4,7 @@
 - 👩‍🏫 I’m a recent grad and teaching fellow at Grace hopper (a Fullstack bootcamp for women+). 
 
 ### Projects:
-- 🐱 I just finished an adorable multiplayer music making game for kits and cat enthusiasts: [Meowsic Maker][3]
+- 🐱 I just finished an adorable multiplayer music making game for kids and cat enthusiasts: [Meowsic Maker][3]
 - 🧟‍♀️ I'm currently learning blockchaining and solidity with the [Crypto Zombies.IO][4] course.
 
 <!-- Social Media:-->
