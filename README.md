@@ -4,7 +4,9 @@
 
 👩‍🏫 I’m a recent grad and teaching fellow at Grace hopper (a Fullstack bootcamp for women+). 
 
+###Projects:
 🐱 I just finished an adorable multiplayer music making game for kits and cat enthusiasts: [Meowsic Maker][3]
+🧟‍♀️ I'm currently learning blockchaining and solidity with the [Crypto Zombies.IO][4] course.
 
 <!-- Social Media:-->
 You can find me on [Instagram][1] and [LinkedIn][2].
@@ -13,6 +15,7 @@ You can find me on [Instagram][1] and [LinkedIn][2].
 [1]: https://instagram.com/tikallyn
 [2]: https://www.linkedin.com/in/tika-llyn/
 [3]: http://meowsicmaker.herokuapp.com
+[4]: https://cryptozombies.io/
 <!--
 **tikallyn/tikallyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
