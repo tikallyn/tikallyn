@@ -13,7 +13,7 @@
 <!-- Social Media:-->
 [Instagram][1] || [LinkedIn][2] 
 
-### 🤓 My NERD stack:
+<!-- ### 🤓 My NERD stack: -->
 
 <!-- Icons -->
 <!-- Links -->
