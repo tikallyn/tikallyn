@@ -1,7 +1,9 @@
 ### 👋 Hi! My name is Tika!
 
+- 👸 Pronouns: she/her
 - 🏙 I live in Chicago.
-- 👩‍🏫 I’m a recent grad and teaching fellow at Grace hopper (a Fullstack bootcamp for women+). 
+- 👩‍🏫 I’m a recent grad and teaching fellow at Grace hopper (a Fullstack bootcamp for women+).
+- 💜 I love boardgames 🎲 , fire dancing 🔥 , art 🎨 , and building queer community 🌈 
 
 ### Projects:
 - 🐱 I just finished an adorable multiplayer music making game for kids and cat enthusiasts: [Meowsic Maker][3]
