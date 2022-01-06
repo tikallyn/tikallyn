@@ -3,7 +3,7 @@
 - 👸 Pronouns: she/her
 - 🏙 I live in Chicago.
 - 👾 I'm a software engineer at [QuirkChat][5] (check us out - we ROCK).
-- 👩‍🏫 In 2020, I graduated from (and taught at) Grace Hopper, a Fullstack bootcamp for women+.
+- 👩‍🏫 In 2021, I graduated from (and taught at) Grace Hopper, a Fullstack bootcamp for women+.
 - 💜 I love boardgames 🎲 , fire dancing 🔥 , art 🎨 , and building queer community 🌈 
 
 ### ✨ Projects:
