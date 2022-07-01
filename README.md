@@ -12,13 +12,12 @@
 
 ### 🧩 Let's Connect:
 <!-- Social Media:-->
-[Instagram][1] || [LinkedIn][2] 
+[LinkedIn][2] 
 
 <!-- ### 🤓 My NERD stack: -->
 
 <!-- Icons -->
 <!-- Links -->
-[1]: https://instagram.com/tikallyn
 [2]: https://www.linkedin.com/in/tika-llyn/
 [3]: http://meowsicmaker.herokuapp.com
 [4]: https://cryptozombies.io/
